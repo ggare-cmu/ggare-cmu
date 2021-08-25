@@ -10,7 +10,7 @@ nav: true
 <article>
     <h3 id="carnegie-mellon-university">Carnegie Mellon University</h3>
 
-<div class="card class mt-3">
+<!-- <div class="card class mt-3">
   <div class="p-3">
     <div class="row">
       <div class="col-sm-10">
@@ -34,6 +34,78 @@ nav: true
             <a href="https://www.cs.cmu.edu/~epxing/Class/10708-20/scribe/lec23_scribe.pdf" target="_blank">notes</a>&nbsp;
           </div>
         </div>
+      </li>
+    </ul>
+    
+  </div>
+</div> -->
+
+
+<div class="card class mt-3">
+  <div class="p-3">
+    <div class="row">
+      <div class="col-sm-10">
+        <h5 class="card-title"><a href="http://www.andrew.cmu.edu/user/yuanzhil/cov.html" target="_blank">Convex Optimization</a></h5>
+        <h6 class="card-subtitle font-italic">Spring 2020</h6>
+        <br />
+        <h6 class="card-subtitle font-italic">Lecturer: Prof. <a href="http://www.andrew.cmu.edu/user/yuanzhil/" target="_blank">Yuanzhi Li</a></h6>
+      </div>
+      <div class="col-sm-2 text-sm-right">
+        <span class="badge">
+          10-725
+        </span>
+      </div>
+    </div>
+    <ul class="card-text font-weight-light list-group list-group-flush">
+      <li class="list-group-item">
+      </li>
+    </ul>
+    
+  </div>
+</div>
+
+
+<div class="card class mt-3">
+  <div class="p-3">
+    <div class="row">
+      <div class="col-sm-10">
+        <h5 class="card-title"><a href="http://www.andrew.cmu.edu/user/yuanzhil/cov.html" target="_blank">Convex Optimization</a></h5>
+        <h6 class="card-subtitle font-italic">Spring 2020</h6>
+        <br />
+        <h6 class="card-subtitle font-italic">Lecturer: Prof. <a href="http://www.andrew.cmu.edu/user/yuanzhil/" target="_blank">Yuanzhi Li</a></h6>
+      </div>
+      <div class="col-sm-2 text-sm-right">
+        <span class="badge">
+          10-725
+        </span>
+      </div>
+    </div>
+    <ul class="card-text font-weight-light list-group list-group-flush">
+      <li class="list-group-item">
+      </li>
+    </ul>
+    
+  </div>
+</div>
+
+
+<div class="card class mt-3">
+  <div class="p-3">
+    <div class="row">
+      <div class="col-sm-10">
+        <h5 class="card-title"><a href="http://www.andrew.cmu.edu/user/yuanzhil/cov.html" target="_blank">Robot Localization and Mapping (SLAM)</a></h5>
+        <h6 class="card-subtitle font-italic">Spring 2020</h6>
+        <br />
+        <h6 class="card-subtitle font-italic">Lecturer: Prof. <a href="https://www.ri.cmu.edu/ri-faculty/michael-kaess/" target="_blank">Michael Kaess</a></h6>
+      </div>
+      <div class="col-sm-2 text-sm-right">
+        <span class="badge">
+          16-833
+        </span>
+      </div>
+    </div>
+    <ul class="card-text font-weight-light list-group list-group-flush">
+      <li class="list-group-item">
       </li>
     </ul>
     
@@ -67,14 +139,14 @@ nav: true
   <div class="p-3">
     <div class="row">
       <div class="col-sm-10">
-        <h5 class="card-title"><a href="https://sites.google.com/view/16-881-cmu/home" target="_blank">Deep Reinforcement Learning for Robotics</a></h5>
+        <h5 class="card-title"><a href="https://sites.google.com/view/16-881-cmu/home" target="_blank">Introduction to Deep Learning</a></h5>
         <h6 class="card-subtitle font-italic">Spring 2020</h6>
         <br />
-        <h6 class="card-subtitle font-italic">Lecturer: Prof. <a href="https://davheld.github.io/" target="_blank">David Held</a></h6>
+        <h6 class="card-subtitle font-italic">Lecturer: Prof. <a href="https://lti.cs.cmu.edu/people/15564/bhiksha-raj" target="_blank">Bhiksha Raj</a></h6>
       </div>
       <div class="col-sm-2 text-sm-right">
         <span class="badge">
-          16-881
+          11-785
         </span>
       </div>
     </div>
@@ -90,14 +162,14 @@ nav: true
   <div class="p-3">
     <div class="row">
       <div class="col-sm-10">
-        <h5 class="card-title"><a href="https://cmudeeprl.github.io/703website/" target="_blank">Deep Reinforcement Learning (PhD)</a></h5>
+        <h5 class="card-title"><a href="https://cmudeeprl.github.io/703website/" target="_blank">Computer Vision</a></h5>
         <h6 class="card-subtitle font-italic">Fall 2019</h6>
         <br />
-        <h6 class="card-subtitle font-italic">Lecturer: Prof. <a href="https://www.cs.cmu.edu/~katef/" target="_blank">Katerina Fragkiadaki</a></h6>
+        <h6 class="card-subtitle font-italic">Lecturer: Prof. <a href="https://www.ri.cmu.edu/ri-faculty/john-galeotti/" target="_blank">John Galeotti</a></h6>
       </div>
       <div class="col-sm-2 text-sm-right">
         <span class="badge">
-          10-703
+          10-720
         </span>
       </div>
     </div>
@@ -113,14 +185,14 @@ nav: true
   <div class="p-3">
     <div class="row">
       <div class="col-sm-10">
-        <h5 class="card-title"><a href="https://www.cs.cmu.edu/~lwehbe/10701_S19/" target="_blank">Introduction to Machine Learning (PhD)</a></h5>
-        <h6 class="card-subtitle font-italic">Spring 2019</h6>
+        <h5 class="card-title"><a href="https://www.cs.cmu.edu/~lwehbe/10701_S19/" target="_blank">Introduction to Machine Learning for Engineers</a></h5>
+        <h6 class="card-subtitle font-italic">Fall 2019</h6>
         <br />
-        <h6 class="card-subtitle font-italic">Lecturers: Prof. <a href="https://www.cs.cmu.edu/~lwehbe/" target="_blank">Leila Wehbe</a> & Prof. <a href="https://www.stat.cmu.edu/~aramdas/" target="_blank">Aaditya Ramdas</a> </h6>
+        <h6 class="card-subtitle font-italic">Lecturers: Prof. <a href="https://www.ece.cmu.edu/directory/bios/chi-yuejie.html" target="_blank">Yuejie Chi</a> & Prof. <a href="https://www.ece.cmu.edu/directory/bios/joe-wong-carlee.html" target="_blank">Carlee Joe-Wong</a> </h6>
       </div>
       <div class="col-sm-2 text-sm-right">
         <span class="badge">
-          10-701
+          18-661
         </span>
       </div>
     </div>
@@ -136,14 +208,14 @@ nav: true
   <div class="p-3">
     <div class="row">
       <div class="col-sm-10">
-        <h5 class="card-title"><a href="https://courses.ece.cmu.edu/18794" target="_blank">Pattern Recognition Theory</a></h5>
-        <h6 class="card-subtitle font-italic">Fall 2020</h6>
+        <h5 class="card-title"><a href="https://courses.ece.cmu.edu/18794" target="_blank">Image and Video Processing</a></h5>
+        <h6 class="card-subtitle font-italic">Fall 2019</h6>
         <br />
-        <h6 class="card-subtitle font-italic">Lecturers: Prof. <a href="https://www.ece.cmu.edu/directory/bios/savvides-marios.html" target="_blank">Marios Savvides</a> </h6>
+        <h6 class="card-subtitle font-italic">Lecturers: Prof. <a href="https://www.ece.cmu.edu/directory/bios/sankaranarayanan-aswin.html" target="_blank">Aswin Sankaranarayanan</a> </h6>
       </div>
       <div class="col-sm-2 text-sm-right">
         <span class="badge">
-          18-794
+          18-793
         </span>
       </div>
     </div>
