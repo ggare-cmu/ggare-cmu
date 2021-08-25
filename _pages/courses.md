@@ -45,14 +45,14 @@ nav: true
   <div class="p-3">
     <div class="row">
       <div class="col-sm-10">
-        <h5 class="card-title"><a href="http://www.andrew.cmu.edu/user/yuanzhil/cov.html" target="_blank">Convex Optimization</a></h5>
-        <h6 class="card-subtitle font-italic">Spring 2020</h6>
+        <h5 class="card-title"><a href="http://www.andrew.cmu.edu/user/yuanzhil/cov.html" target="_blank">Machine Learning for Signal Processing</a></h5>
+        <h6 class="card-subtitle font-italic">Fall 2020</h6>
         <br />
-        <h6 class="card-subtitle font-italic">Lecturer: Prof. <a href="http://www.andrew.cmu.edu/user/yuanzhil/" target="_blank">Yuanzhi Li</a></h6>
+        <h6 class="card-subtitle font-italic">Lecturer: Prof. <a href="https://lti.cs.cmu.edu/people/15564/bhiksha-raj" target="_blank">Bhiksha Raj</a></h6>
       </div>
       <div class="col-sm-2 text-sm-right">
         <span class="badge">
-          10-725
+          18-797
         </span>
       </div>
     </div>
@@ -69,14 +69,14 @@ nav: true
   <div class="p-3">
     <div class="row">
       <div class="col-sm-10">
-        <h5 class="card-title"><a href="http://www.andrew.cmu.edu/user/yuanzhil/cov.html" target="_blank">Convex Optimization</a></h5>
-        <h6 class="card-subtitle font-italic">Spring 2020</h6>
+        <h5 class="card-title"><a href="http://www.andrew.cmu.edu/user/yuanzhil/cov.html" target="_blank">Speech Recognition and Understanding</a></h5>
+        <h6 class="card-subtitle font-italic">Fall 2020</h6>
         <br />
-        <h6 class="card-subtitle font-italic">Lecturer: Prof. <a href="http://www.andrew.cmu.edu/user/yuanzhil/" target="_blank">Yuanzhi Li</a></h6>
+        <h6 class="card-subtitle font-italic">Lecturer: Prof. <a href="https://www.ece.cmu.edu/directory/bios/lane-ian.html" target="_blank">Ian R. Lane</a></h6>
       </div>
       <div class="col-sm-2 text-sm-right">
         <span class="badge">
-          10-725
+          18-781
         </span>
       </div>
     </div>
