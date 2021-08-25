@@ -2,29 +2,34 @@
 layout: about
 title: About
 permalink: /
-description: <a href="https://www.ri.cmu.edu/">The Robotics Institute</a>, Carnegie Mellon University.
-
+description: <p class="post-description"><a href="https://https://www.ece.cmu.edu/" target="_blank" >Electrical and Computer Engineering Department</a> • <a href="https://www.cylab.cmu.edu/" target="_blank">Cylab</a> • <a href="https://www.cmu.edu/" target="_blank">Carnegie Mellon University</a></p>
 profile:
   align: right
-  image: grg_prof_pic.jpeg
+  image: haiphan.jpg
   address: >
-    <p>NSH 1502C</p>
-    <p>5000 Forbes Ave</p>
-    <p>Pittsburgh, PA 15213</p>
+    <p>CMU Email: <strong>haithanp</strong> AT <strong>andrew</strong> DOT <strong>cmu</strong> DOT <strong>edu</strong></p>
+    <p>CIC Building</p>
+    <p>5000 Forbes Avenue</p>
+    <p>Pittsburgh, Pennsylvania 15213</p>
 
 news: true  # includes a list of news items
+projects: true
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
-
-# Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-#
-# Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-#
-# Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
 ---
 
-I am a first-year Ph.D. student at Carnegie Mellon University, Robotics Institute. 
+I am a Ph.D. student at [CMU](https://www.cmu.edu/), Pittsburgh, PA.
 
-My research interests are in the area of Computer Vision and Deep Learning with a focus on Video Understanding targeting both natural and medical image domains.
+**Research Interests**\
+My research interests are Machine Learning and Deep Learning for Computer Vision. I am interested in desiging compact neural architectures using recent automated Machine Learning (auto ML) approaches: Evolutionary algorithm, Reinforcement Learning. 
 
-I obtained my Master's degree in Electrical and Computer Engineering at CMU in December 2020. Before coming to the US, I obtained my Bachelor of Engineering Degree in Electronics and Communications Engineering from B. M. S. College of Engineering, India.
+I obtained my master's degree from CMU, advised by Prof.[Marios Savvides](https://www.ece.cmu.edu/directory/bios/savvides-marios.html). Prior to that, I got my bachelor's degree in Computer Science at [University of Science, Ho Chi Minh City, Vietnam](https://en.hcmus.edu.vn/), advised by Prof.[Triet Minh Tran](https://www.fit.hcmus.edu.vn/~tmtriet/) and Dr. Son Thai Tran.
+
+I worked as a Software Engineer and ML/AI Research Engineer at Misfit/[Fossil group](https://www.fossil.com/en-us/), a wearable devices company for 3 years.
+
+I then worked as a ML/AI Research Engineer at [Axon Enterprise](https://www.axon.com/), a company working on on-body camera for polices worldwide.
+
+Currently, along with my PhD program at CMU, I worked at [Cylab](https://www.cylab.cmu.edu/) as a research assistant. 
+
+I served as a reviewer of IEEE Access, ICLR 2019, and ICLR 2020.
+<!-- Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
