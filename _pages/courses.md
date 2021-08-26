@@ -211,7 +211,7 @@ nav: true
         <h5 class="card-title"><a href="https://courses.ece.cmu.edu/18793" target="_blank">Image and Video Processing</a></h5>
         <h6 class="card-subtitle font-italic">Fall 2019</h6>
         <br />
-        <h6 class="card-subtitle font-italic">Lecturers: Prof. <a href="https://www.ece.cmu.edu/directory/bios/sankaranarayanan-aswin.html" target="_blank">Aswin Sankaranarayanan</a> </h6>
+        <h6 class="card-subtitle font-italic">Lecturer: Prof. <a href="https://www.ece.cmu.edu/directory/bios/sankaranarayanan-aswin.html" target="_blank">Aswin Sankaranarayanan</a> </h6>
       </div>
       <div class="col-sm-2 text-sm-right">
         <span class="badge">
