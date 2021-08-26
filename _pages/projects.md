@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Projects
+title: #Projects
 permalink: /projects/
 description: The experienced projects in both industrial companies and academy. 
 nav: true
