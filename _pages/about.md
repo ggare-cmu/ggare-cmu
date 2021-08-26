@@ -23,7 +23,7 @@ I am a first-year Ph.D. student at [CMU](https://www.cmu.edu/), Robotics Institu
 **Research Interests**\
 My research interests are in the area of Computer Vision and Deep Learning with a focus on Video Understanding targeting both natural and medical image domains.
 
-I obtained my master's degree in Electrical and Computer Engineering at CMU in December 2020, wherein I carried out research under Prof.[John Galeotti](https://www.ri.cmu.edu/ri-faculty/john-galeotti/), Prof.[Aswin C Sankaranarayanan](https://www.ece.cmu.edu/directory/bios/sankaranarayanan-aswin.html), and Prof.[Deva Ramanan](https://www.ri.cmu.edu/ri-faculty/deva-kannan-ramanan/). Prior to that, I got my bachelor's degree in Computer Science at [B. M. S. College of Engineering, India](https://www.bmsce.ac.in/).
+I obtained my master's degree in Electrical and Computer Engineering at CMU in December 2020, wherein I carried out research under Prof. [John Galeotti](https://www.ri.cmu.edu/ri-faculty/john-galeotti/), Prof. [Aswin C Sankaranarayanan](https://www.ece.cmu.edu/directory/bios/sankaranarayanan-aswin.html), and Prof. [Deva Ramanan](https://www.ri.cmu.edu/ri-faculty/deva-kannan-ramanan/). Prior to that, I got my bachelor's degree in Electronics and Communication Engineering at [B. M. S. College of Engineering, India](https://www.bmsce.ac.in/).
 
 I worked as a Software Engineer and Data Scientist at [Sling Media](https://www.linkedin.com/company/sling-media/) subsidiary of Dish Networks, a consumer electronics company for 3 years.
 
