@@ -4,7 +4,7 @@ date: 2021-06-01 07:59:00-0400
 inline: true
 ---
 
-Computer Vision Research Intern at DawnLight Inc., working on Human Action recognition in medical and assisted living setups, under manager Hadi Kiapour while being advised by Prof. Fei-Fei Li and Prof. Ehsan Adeli.
+Started my research intern at DawnLight Inc., working on Human Action recognition in medical and assisted living setups, under manager Hadi Kiapour while being advised by Prof. Fei-Fei Li and Prof. Ehsan Adeli.
 
 <!-- Our paper <a target="_blank" href="https://openaccess.thecvf.com/content_CVPR_2020/papers/Phan_Binarizing_MobileNet_via_Evolution-Based_Searching_CVPR_2020_paper.pdf">
               Binarizing MobileNet via Evolution-based Searching</a> got accepted at <a target="_blank" href="http://cvpr2020.thecvf.com/">
