@@ -45,7 +45,7 @@ nav: true
   <div class="p-3">
     <div class="row">
       <div class="col-sm-10">
-        <h5 class="card-title"><a href="http://www.andrew.cmu.edu/user/yuanzhil/cov.html" target="_blank">Machine Learning for Signal Processing</a></h5>
+        <h5 class="card-title"><a href="http://mlsp.cs.cmu.edu/courses/fall2019/index.html" target="_blank">Machine Learning for Signal Processing</a></h5>
         <h6 class="card-subtitle font-italic">Fall 2020</h6>
         <br />
         <h6 class="card-subtitle font-italic">Lecturer: Prof. <a href="https://lti.cs.cmu.edu/people/15564/bhiksha-raj" target="_blank">Bhiksha Raj</a></h6>
@@ -69,7 +69,7 @@ nav: true
   <div class="p-3">
     <div class="row">
       <div class="col-sm-10">
-        <h5 class="card-title"><a href="http://www.andrew.cmu.edu/user/yuanzhil/cov.html" target="_blank">Speech Recognition and Understanding</a></h5>
+        <h5 class="card-title"><a href="https://courses.ece.cmu.edu/18781" target="_blank">Speech Recognition and Understanding</a></h5>
         <h6 class="card-subtitle font-italic">Fall 2020</h6>
         <br />
         <h6 class="card-subtitle font-italic">Lecturer: Prof. <a href="https://www.ece.cmu.edu/directory/bios/lane-ian.html" target="_blank">Ian R. Lane</a></h6>
@@ -93,7 +93,7 @@ nav: true
   <div class="p-3">
     <div class="row">
       <div class="col-sm-10">
-        <h5 class="card-title"><a href="http://www.andrew.cmu.edu/user/yuanzhil/cov.html" target="_blank">Robot Localization and Mapping (SLAM)</a></h5>
+        <h5 class="card-title"><a href="https://www.cs.cmu.edu/~kaess/teaching/16833/Spring2021/" target="_blank">Robot Localization and Mapping (SLAM)</a></h5>
         <h6 class="card-subtitle font-italic">Spring 2020</h6>
         <br />
         <h6 class="card-subtitle font-italic">Lecturer: Prof. <a href="https://www.ri.cmu.edu/ri-faculty/michael-kaess/" target="_blank">Michael Kaess</a></h6>
@@ -139,7 +139,7 @@ nav: true
   <div class="p-3">
     <div class="row">
       <div class="col-sm-10">
-        <h5 class="card-title"><a href="https://sites.google.com/view/16-881-cmu/home" target="_blank">Introduction to Deep Learning</a></h5>
+        <h5 class="card-title"><a href="https://deeplearning.cs.cmu.edu/F21/index.html" target="_blank">Introduction to Deep Learning</a></h5>
         <h6 class="card-subtitle font-italic">Spring 2020</h6>
         <br />
         <h6 class="card-subtitle font-italic">Lecturer: Prof. <a href="https://lti.cs.cmu.edu/people/15564/bhiksha-raj" target="_blank">Bhiksha Raj</a></h6>
@@ -162,7 +162,7 @@ nav: true
   <div class="p-3">
     <div class="row">
       <div class="col-sm-10">
-        <h5 class="card-title"><a href="https://cmudeeprl.github.io/703website/" target="_blank">Computer Vision</a></h5>
+        <h5 class="card-title"><a href="http://16720.courses.cs.cmu.edu/" target="_blank">Computer Vision</a></h5>
         <h6 class="card-subtitle font-italic">Fall 2019</h6>
         <br />
         <h6 class="card-subtitle font-italic">Lecturer: Prof. <a href="https://www.ri.cmu.edu/ri-faculty/john-galeotti/" target="_blank">John Galeotti</a></h6>
@@ -185,7 +185,7 @@ nav: true
   <div class="p-3">
     <div class="row">
       <div class="col-sm-10">
-        <h5 class="card-title"><a href="https://www.cs.cmu.edu/~lwehbe/10701_S19/" target="_blank">Introduction to Machine Learning for Engineers</a></h5>
+        <h5 class="card-title"><a href="https://courses.ece.cmu.edu/18661" target="_blank">Introduction to Machine Learning for Engineers</a></h5>
         <h6 class="card-subtitle font-italic">Fall 2019</h6>
         <br />
         <h6 class="card-subtitle font-italic">Lecturers: Prof. <a href="https://www.ece.cmu.edu/directory/bios/chi-yuejie.html" target="_blank">Yuejie Chi</a> & Prof. <a href="https://www.ece.cmu.edu/directory/bios/joe-wong-carlee.html" target="_blank">Carlee Joe-Wong</a> </h6>
@@ -208,7 +208,7 @@ nav: true
   <div class="p-3">
     <div class="row">
       <div class="col-sm-10">
-        <h5 class="card-title"><a href="https://courses.ece.cmu.edu/18794" target="_blank">Image and Video Processing</a></h5>
+        <h5 class="card-title"><a href="https://courses.ece.cmu.edu/18793" target="_blank">Image and Video Processing</a></h5>
         <h6 class="card-subtitle font-italic">Fall 2019</h6>
         <br />
         <h6 class="card-subtitle font-italic">Lecturers: Prof. <a href="https://www.ece.cmu.edu/directory/bios/sankaranarayanan-aswin.html" target="_blank">Aswin Sankaranarayanan</a> </h6>
