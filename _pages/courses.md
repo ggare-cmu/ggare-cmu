@@ -45,6 +45,102 @@ nav: true
   <div class="p-3">
     <div class="row">
       <div class="col-sm-10">
+        <h5 class="card-title"><a href="https://andrejristeski.github.io/10708-F22/" target="_blank">Probablistic Graphical Models</a></h5>
+        <h6 class="card-subtitle font-italic">Fall 2022</h6>
+        <br />
+        <h6 class="card-subtitle font-italic">Lecturer: Prof. <a href="https://www.andrew.cmu.edu/user/aristesk/" target="_blank">Andrej Risteski</a></h6>
+      </div>
+      <div class="col-sm-2 text-sm-right">
+        <span class="badge">
+          10-708
+        </span>
+      </div>
+    </div>
+    <ul class="card-text font-weight-light list-group list-group-flush">
+      <li class="list-group-item">
+      </li>
+    </ul>
+    
+  </div>
+</div>
+
+
+<div class="card class mt-3">
+  <div class="p-3">
+    <div class="row">
+      <div class="col-sm-10">
+        <h5 class="card-title"><a href="https://zackory.com/16741-22/" target="_blank">Mechanics of Manipulation</a></h5>
+        <h6 class="card-subtitle font-italic">Fall 2022</h6>
+        <br />
+        <h6 class="card-subtitle font-italic">Lecturer: Prof. <a href="https://zackory.com/" target="_blank">Zackory Erickson</a></h6>
+      </div>
+      <div class="col-sm-2 text-sm-right">
+        <span class="badge">
+          16-741
+        </span>
+      </div>
+    </div>
+    <ul class="card-text font-weight-light list-group list-group-flush">
+      <li class="list-group-item">
+      </li>
+    </ul>
+    
+  </div>
+</div>
+
+
+<div class="card class mt-3">
+  <div class="p-3">
+    <div class="row">
+      <div class="col-sm-10">
+        <h5 class="card-title"><a href="https://www.cs.cmu.edu/~nihars/teaching/10715-Fa21/index.html" target="_blank">Advance Introduction to Machine Learning</a></h5>
+        <h6 class="card-subtitle font-italic">Fall 2021</h6>
+        <br />
+        <h6 class="card-subtitle font-italic">Lecturer: Prof. <a href="http://www.cs.cmu.edu/~nihars/" target="_blank">Nihar B. Shah</a></h6>
+      </div>
+      <div class="col-sm-2 text-sm-right">
+        <span class="badge">
+          10-715
+        </span>
+      </div>
+    </div>
+    <ul class="card-text font-weight-light list-group list-group-flush">
+      <li class="list-group-item">
+      </li>
+    </ul>
+    
+  </div>
+</div>
+
+
+<div class="card class mt-3">
+  <div class="p-3">
+    <div class="row">
+      <div class="col-sm-10">
+        <h5 class="card-title"><a href="http://www.cs.cmu.edu/~me/811/" target="_blank">Math Fundamentals for Robotics</a></h5>
+        <h6 class="card-subtitle font-italic">Fall 2021</h6>
+        <br />
+        <h6 class="card-subtitle font-italic">Lecturer: Prof. <a href="https://www.cs.cmu.edu/~me/whois-me.html" target="_blank">Michael Erdmann</a></h6>
+      </div>
+      <div class="col-sm-2 text-sm-right">
+        <span class="badge">
+          16-811
+        </span>
+      </div>
+    </div>
+    <ul class="card-text font-weight-light list-group list-group-flush">
+      <li class="list-group-item">
+      </li>
+    </ul>
+    
+  </div>
+</div>
+
+
+<div class="card class mt-3">
+  <div class="p-3">
+    <div class="row">
+      <div class="col-sm-10">
         <h5 class="card-title"><a href="http://mlsp.cs.cmu.edu/courses/fall2019/index.html" target="_blank">Machine Learning for Signal Processing</a></h5>
         <h6 class="card-subtitle font-italic">Fall 2020</h6>
         <br />
