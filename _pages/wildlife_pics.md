@@ -13,13 +13,25 @@ I am a wildlife photographer and conservationalist. Here are some of my wildlife
 ![Image 3](../assets/wildlife_clicks/3.jpg)
 ![Image 4](../assets/wildlife_clicks/4.jpg) ![Image 5](../assets/wildlife_clicks/5.jpg) ![Image 6](../assets/wildlife_clicks/6.jpg) -->
 
-<div align="center">
+<!-- <div align="center">
 
-| ![Image 1](../assets/wildlife_clicks/1.jpg){: width="200px"} | ![Image 2](../assets/wildlife_clicks/2.jpg){: width="200px"} | ![Image 3](../assets/wildlife_clicks/3.jpg){: width="200px"} |
+| ![Image 1](../assets/wildlife_clicks/1.jpg){: width="200px"  height="150px"} | ![Image 2](../assets/wildlife_clicks/2.jpg){: width="200px"  height="150px"} | ![Image 3](../assets/wildlife_clicks/3.jpg){: width="200px"  height="150px"} |
 | --- | --- | --- |
-| ![Image 4](../assets/wildlife_clicks/4.jpg){: width="200px"} | ![Image 5](../assets/wildlife_clicks/5.jpg){: width="200px"} | ![Image 6](../assets/wildlife_clicks/6.jpg){: width="200px"} |
+| ![Image 4](../assets/wildlife_clicks/4.jpg){: width="200px"  height="150px"} | ![Image 5](../assets/wildlife_clicks/5.jpg){: width="200px"  height="150px"} | ![Image 6](../assets/wildlife_clicks/6.jpg){: width="200px"  height="150px"} |
 
 
+</div> -->
+
+<div align="center">
+  <div style="display: flex; flex-wrap: wrap; justify-content: center;">
+      <img src="../assets/wildlife_clicks/1.jpg" alt="Image 1" style="width:150px; height:150px; margin: 5px;">
+      <img src="../assets/wildlife_clicks/2.jpg" alt="Image 2" style="width:150px; height:150px; margin: 5px;">
+      <img src="../assets/wildlife_clicks/3.jpg" alt="Image 3" style="width:150px; height:150px; margin: 5px;">
+      <!-- | --- | --- | --- | -->
+      <img src="../assets/wildlife_clicks/4.jpg" alt="Image 1" style="width:150px; height:150px; margin: 5px;">
+      <img src="../assets/wildlife_clicks/5.jpg" alt="Image 2" style="width:150px; height:150px; margin: 5px;">
+      <img src="../assets/wildlife_clicks/6.jpg" alt="Image 3" style="width:150px; height:150px; margin: 5px;">
+  </div>
 </div>
 
 <!-- <div class="wildlife">
