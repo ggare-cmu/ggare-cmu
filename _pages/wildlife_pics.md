@@ -9,6 +9,10 @@ nav: true
 
 I am a wildlife pphotographer and conservationalist. Here are some of my wildlife clicks. 
 
+![Image 1](../assets/wildlife_clicks/1.jpg) ![Image 2](../assets/wildlife_clicks/2.jpg)
+![Image 3](../assets/wildlife_clicks/3.jpg)
+![Image 4](../assets/wildlife_clicks/4.jpg) ![Image 5](../assets/wildlife_clicks/5.jpg) ![Image 6](../assets/wildlife_clicks/6.jpg)
+
 <div class="wildlife">
 
 <!-- {% for y in page.years %} -->
