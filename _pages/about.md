@@ -20,7 +20,7 @@ social: true  # includes social icons at the bottom of the page
 
 <!-- I am a first-year Ph.D. student at [CMU](https://www.cmu.edu/), Robotics Institute, coadvised by Prof. [John Galeotti](https://www.ri.cmu.edu/ri-faculty/john-galeotti/), and Prof. [Deva Ramanan](https://www.ri.cmu.edu/ri-faculty/deva-kannan-ramanan/). -->
 <!-- I am a first-year Ph.D. student in the Robotics Institute at [CMU](https://www.cmu.edu/), advised by Prof. [John Galeotti](https://www.ri.cmu.edu/ri-faculty/john-galeotti/) and Prof. [Deva Ramanan](https://www.ri.cmu.edu/ri-faculty/deva-kannan-ramanan/). -->
-I am a second-year Ph.D. student in the Robotics Institute at [CMU](https://www.cmu.edu/), advised by Prof. [John Galeotti](https://www.ri.cmu.edu/ri-faculty/john-galeotti/) and Prof. [Deva Ramanan](https://www.ri.cmu.edu/ri-faculty/deva-kannan-ramanan/).
+I am a third-year Ph.D. student in the Robotics Institute at [CMU](https://www.cmu.edu/), advised by Prof. [John Galeotti](https://www.ri.cmu.edu/ri-faculty/john-galeotti/) and Prof. [Deva Ramanan](https://www.ri.cmu.edu/ri-faculty/deva-kannan-ramanan/).
 
 **Research Interests**\
 <!-- My research interests are in the area of Computer Vision and Deep Learning with a focus on Video Understanding targeting both natural and medical image domains. -->
