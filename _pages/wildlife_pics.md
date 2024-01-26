@@ -7,7 +7,7 @@ description:  #publications by categories in reversed chronological order. gener
 nav: true
 ---
 
-I am a wildlife pphotographer and conservationalist. Here are some of my wildlife clicks. 
+I am a wildlife photographer and conservationalist. Here are some of my wildlife clicks. 
 
 <!-- ![Image 1](../assets/wildlife_clicks/1.jpg) ![Image 2](../assets/wildlife_clicks/2.jpg)
 ![Image 3](../assets/wildlife_clicks/3.jpg)
